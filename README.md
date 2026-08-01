@@ -1,0 +1,1 @@
+The project demonstrates practical use of Python fundamentals including nested dictionaries for data storage, functions for modular code design, loops for continuous program flow, and input validation to ensure data integrity.
